@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mentora-Classroom-to-Career/.github/main/profile/logo.png" alt="Mentora Logo" width="160"/>
+<img src="https://raw.githubusercontent.com/Mentora-Classroom-to-Career/.github/main/profile/cropped_circle_image (2).png" alt="Mentora Logo" width="160"/>
 
 # Mentora
 ### A Smart Platform, From Classroom to Career
