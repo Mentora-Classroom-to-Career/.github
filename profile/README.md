@@ -131,16 +131,16 @@ Mentora addresses both problems through a single integration layer called the **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaimalRaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=RaimalRaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Raimal-Raja&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaimalRaja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaimalRaja&theme=react-dark&hide_border=true" alt="Contribution Graph" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raimal-Raja&theme=react-dark&hide_border=true" alt="Contribution Graph" width="98%"/>
 
 </div>
 
-> Replace `RaimalRaja` with the relevant GitHub username if these stats should track a different account or an org-wide aggregate.
+> Replace `Raimal-Raja` with the relevant GitHub username if these stats should track a different account or an org-wide aggregate.
 
 ---
 
