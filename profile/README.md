@@ -131,7 +131,7 @@ Phase 10 ████░░░░░░░░░░░░░░░░  Documenta
 | | Name | Roll No. | Focus Area |
 |---|---|---|---|
 | 👤 | **Muhammad Haroon Abbas** | 2K23/BLCS/38 | Backend API · ML Models 1, 2, 3 · Exam RAG · Exam Frontend |
-| 👤 | **Raimal Raja** | 2K23/BLCS/49 | Career API · ML Models 4, 5 · Career & Interview RAG · Career Frontend |
+| 👤 | **Raimal Raja** | 2K23/BLCS/49 | Backend API · Career API · ML Models 4, 5 · Career & Interview RAG · Career Frontend |
 
 **Supervisor:** Sir Dileep Kumar
 **Program:** BS Computer Science · University of Sindh, Laar Campus Badin
