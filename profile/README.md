@@ -1,10 +1,8 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Mentora-Classroom-to-Career/.github/main/profile/cropped_circle_image (2).png" alt="Mentora Logo" width="160"/>
 
 # Mentora
 ### A Smart Platform, From Classroom to Career
-
 *Bridging Pakistan's exam preparation crisis and career guidance gap — with AI.*
 
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js_14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -86,12 +84,63 @@ Mentora addresses both problems through a single integration layer called the **
 ## 🛠️ Tech Stack
 
 **Backend:** Python 3.11 · FastAPI · PostgreSQL 15 · LangChain · ChromaDB · Ollama (Mistral-7B)
-
 **ML / AI:** TensorFlow 2.15 · HuggingFace Transformers · PEFT (LoRA) · Sentence-Transformers · SpaCy · Scikit-learn
-
 **Frontend:** Next.js 14 · Tailwind CSS · shadcn/ui · Recharts
-
 **DevOps:** Docker · Docker Compose · GitHub · Weights & Biases · Google Colab (T4 GPU)
+
+---
+
+## 🧰 Skills & Frameworks
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-121212?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaimalRaja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=RaimalRaja&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaimalRaja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaimalRaja&theme=react-dark&hide_border=true" alt="Contribution Graph" width="98%"/>
+
+</div>
+
+> Replace `RaimalRaja` with the relevant GitHub username if these stats should track a different account or an org-wide aggregate.
 
 ---
 
@@ -122,6 +171,7 @@ Phase 8  ████░░░░░░░░░░░░░░░░  Frontend 
 Phase 9  ████░░░░░░░░░░░░░░░░  User Study & Testing
 Phase 10 ████░░░░░░░░░░░░░░░░  Documentation & Submission
 ```
+
 *20-week development timeline · University of Sindh, Laar Campus Badin*
 
 ---
