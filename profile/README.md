@@ -131,15 +131,12 @@ Mentora addresses both problems through a single integration layer called the **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="98%"/>
 <img src="https://streak-stats.demolab.com?user=Raimal-Raja&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raimal-Raja&theme=react-dark&hide_border=true" alt="Contribution Graph" width="98%"/>
 
 </div>
 
+> **Note on stats widgets:** the public `github-readme-stats.vercel.app` instance (used for the Stats/Top-Languages cards) has been unreliable due to shared rate limits and outages, so those two cards were switched to `github-metrics.svg` — a static SVG regenerated on a schedule by the `metrics` GitHub Action below (workflow: `.github/workflows/metrics.yml`), which has no live-server dependency. `streak-stats.demolab.com` is a separate, currently-working service and was left as-is.
 > Replace `Raimal-Raja` with the relevant GitHub username if these stats should track a different account or an org-wide aggregate.
 
 ---
