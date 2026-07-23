@@ -131,7 +131,7 @@ Mentora addresses both problems through a single integration layer called the **
 
 <div align="center">
 
-<img src="[./github-metrics.svg](https://github.com/Mentora-Classroom-to-Career/.github/blob/main/github-metrics.svg)" alt="GitHub Metrics" width="98%"/>
+<img src="https://github.com/Mentora-Classroom-to-Career/.github/blob/main/github-metrics.svg" alt="GitHub Metrics" width="98%"/>
 <img src="https://streak-stats.demolab.com?user=Raimal-Raja&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
 
 </div>
