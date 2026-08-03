@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Mentora-Classroom-to-Career/.github/main/profile/cropped_circle_image%20(2).png" alt="Mentora Logo" width="160"/>
 
 # Mentora
-### A Smart Platform, From Classroom to Career
+### A Smart Platform, From Classroom to Career 
 
 *Bridging Pakistan's exam preparation crisis and career guidance gap — with AI.*
 
